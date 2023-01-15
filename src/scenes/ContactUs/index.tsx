@@ -45,7 +45,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. At aspernatur quis nulla ullam, ipsum sapiente iste iure aut dolorum ut ab nobis sunt inventore laboriosam ipsam sint, voluptate eius. Ex.
                     </p>
                 </motion.div>
-                {/* FORM AND IMAGE */}
+                {/* FORM AND IMAGE  REACT HOOK FORM*/}
                 <div className="mt-10 justify-between gap-8 md:flex">
                     <motion.div
                         className="mt-10 basis-3/5 md:mt-0"
