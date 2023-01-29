@@ -25,7 +25,7 @@ function App() {
     return () => window.removeEventListener("scroll", handleScroll)
   }, [])
   return (
-    <div className="bg-gray-20">
+    <div >
       <Navbar
         isTopOfPage={isTopOfPage}
         selectedPage={selectedPage}
